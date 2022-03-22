@@ -1,0 +1,48 @@
+{
+  "name": "cancelled-cli",
+  "version": "1.0.0",
+  "description": "Let you display cancellation message of a Node.js CLI whenever user pressed CTRL + C or COMMAND (⌘) + C",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/cancelled-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "console",
+    "cancell",
+    "cancelled-cli",
+    "cancell-all",
+    "cancell console",
+    "cancell-any-console",
+    "cancell-my-console",
+    "cancell-your-console",
+    "cancell-all-console",
+    "cancell console windows",
+    "cancell console macos",
+    "cancell console linux",
+    "cancell console windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/cancelled-cli/issues"
+  },
+  "homepage": "https://github.com/csalam07/cancelled-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
