@@ -1,6 +1,6 @@
 {
   "name": "cancelled-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Let you display cancellation message of a Node.js CLI whenever user pressed CTRL + C or COMMAND (⌘) + C",
   "main": "index.js",
   "type": "module",
